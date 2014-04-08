@@ -1,0 +1,19 @@
+2014/04/03 17:26:25 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\vinkal\Downloads\apache-jmeter-2.11\apache-jmeter-2.11\bin\user.properties 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\vinkal\Downloads\apache-jmeter-2.11\apache-jmeter-2.11\bin\system.properties 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Setting JMeter property: NUMTHREADS=10 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Setting JMeter property: RAMP=1 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Copyright (c) 1998-2014 The Apache Software Foundation 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Version 2.11 r1554548 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: java.version=1.7.0_40 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: os.name=Windows 7 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: os.arch=amd64 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: os.version=6.1 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: JMeterHome=C:\Users\vinkal\Downloads\apache-jmeter-2.11\apache-jmeter-2.11 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: user.dir  =G:\study\OctWorkspace\JmeterAutomation 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: PWD       =G:\study\OctWorkspace\JmeterAutomation 
+2014/04/03 17:26:25 INFO  - jmeter.JMeter: IP: 172.27.20.88 Name: vinkalvishnoi FullName: vinkalvishnoi 

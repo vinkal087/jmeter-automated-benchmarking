@@ -1,0 +1,278 @@
+
+=============== [2014/04/02 03:05:06, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[03:05:06] INFO:    SSHExec initializing ...
+[03:05:06] INFO:    Session initialized and associated with user credential vipin
+[03:05:06] INFO:    SSHExec initialized successfully
+[03:05:06] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[03:05:12] INFO:    SSH connection established
+[03:05:12] INFO:    Command is python /home/vipin/benchmarking/myscript.py 2 4 5 7into7
+[03:05:12] INFO:    Connection channel established succesfully
+[03:05:12] INFO:    Start to run command
+[03:05:12] INFO:    Connection channel closed
+[03:05:12] INFO:    Check if exec success or not ... 
+[03:05:12] INFO:    Execute successfully for command: python /home/vipin/benchmarking/myscript.py 2 4 5 7into7
+[03:05:13] INFO:    Now wait 5 seconds to begin next task ...
+[03:05:18] INFO:    Connection channel disconnect
+[03:05:18] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 03:16:41, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[03:16:41] INFO:    SSHExec initializing ...
+[03:16:42] INFO:    Session initialized and associated with user credential vipin
+[03:16:42] INFO:    SSHExec initialized successfully
+[03:16:42] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[03:16:48] INFO:    SSH connection established
+[03:16:48] INFO:    Command is echo vinkal
+[03:16:48] INFO:    Connection channel established succesfully
+[03:16:48] INFO:    Start to run command
+[03:16:48] INFO:    vinkal
+
+[03:16:49] INFO:    Connection channel closed
+[03:16:49] INFO:    Check if exec success or not ... 
+[03:16:49] INFO:    Execute successfully for command: echo vinkal
+[03:16:49] INFO:    Now wait 5 seconds to begin next task ...
+[03:16:54] INFO:    Connection channel disconnect
+[03:16:54] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 03:30:26, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[03:30:26] INFO:    SSHExec initializing ...
+[03:30:26] INFO:    Session initialized and associated with user credential vipin
+[03:30:26] INFO:    SSHExec initialized successfully
+[03:30:27] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[03:30:33] INFO:    SSH connection established
+[03:30:33] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[03:30:33] INFO:    Connection channel established succesfully
+[03:30:33] INFO:    Start to run command
+[03:30:33] INFO:    Connection channel closed
+[03:30:33] INFO:    Check if exec success or not ... 
+[03:30:33] INFO:    Execute successfully for command: python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[03:30:33] INFO:    Now wait 5 seconds to begin next task ...
+[03:30:38] INFO:    Connection channel disconnect
+[03:30:39] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 17:30:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:30:56] INFO:    SSHExec initializing ...
+[17:30:57] INFO:    Session initialized and associated with user credential vipin
+[17:30:57] INFO:    SSHExec initialized successfully
+[17:30:57] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[17:31:03] INFO:    SSH connection established
+[17:31:03] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[17:31:03] INFO:    Connection channel established succesfully
+[17:31:03] INFO:    Start to run command
+[17:31:04] INFO:    Connection channel closed
+[17:31:04] INFO:    Check if exec success or not ... 
+[17:31:04] INFO:    Execute successfully for command: python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[17:31:04] INFO:    Now wait 5 seconds to begin next task ...
+[17:31:09] INFO:    Connection channel disconnect
+[17:31:09] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 17:51:11, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:51:11] INFO:    SSHExec initializing ...
+[17:51:11] INFO:    Session initialized and associated with user credential vipin
+[17:51:11] INFO:    SSHExec initialized successfully
+[17:51:11] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[17:51:32] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[17:51:32] ERROR:   session is down
+
+=============== [2014/04/02 17:52:17, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:52:17] INFO:    SSHExec initializing ...
+[17:52:17] INFO:    Session initialized and associated with user credential vipin
+[17:52:17] INFO:    SSHExec initialized successfully
+[17:52:17] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[17:52:38] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[17:52:38] ERROR:   session is down
+
+=============== [2014/04/02 18:06:50, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:06:50] INFO:    SSHExec initializing ...
+[18:06:50] INFO:    Session initialized and associated with user credential vipin
+[18:06:50] INFO:    SSHExec initialized successfully
+[18:06:50] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:06:57] INFO:    SSH connection established
+[18:06:57] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[18:06:57] INFO:    Connection channel established succesfully
+[18:06:57] INFO:    Start to run command
+[18:06:58] INFO:    Connection channel closed
+[18:06:58] INFO:    Check if exec success or not ... 
+[18:06:58] INFO:    Execute successfully for command: python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[18:06:58] INFO:    Now wait 5 seconds to begin next task ...
+[18:07:03] INFO:    Connection channel disconnect
+[18:07:03] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 18:20:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:20:56] INFO:    SSHExec initializing ...
+[18:20:56] INFO:    Session initialized and associated with user credential vipin
+[18:20:56] INFO:    SSHExec initialized successfully
+[18:20:56] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:21:03] INFO:    SSH connection established
+[18:21:03] INFO:    Command is python /home/vipin/benchmarking/vinkal/myscript.py 1024 2048 2048 4into4
+[18:21:03] INFO:    Connection channel established succesfully
+[18:21:03] INFO:    Start to run command
+[18:21:03] INFO:    Connection channel closed
+[18:21:03] INFO:    Check if exec success or not ... 
+[18:21:03] INFO:    Execute successfully for command: python /home/vipin/benchmarking/vinkal/myscript.py 1024 2048 2048 4into4
+[18:21:03] INFO:    Now wait 5 seconds to begin next task ...
+[18:21:08] INFO:    Connection channel disconnect
+[18:21:08] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 18:30:18, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:30:18] INFO:    SSHExec initializing ...
+[18:30:18] INFO:    Session initialized and associated with user credential vipin
+[18:30:18] INFO:    SSHExec initialized successfully
+[18:30:18] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:30:24] INFO:    SSH connection established
+[18:30:24] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[18:30:24] INFO:    Connection channel established succesfully
+[18:30:24] INFO:    Start to run command
+
+=============== [2014/04/02 18:40:51, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:40:51] INFO:    SSHExec initializing ...
+[18:40:51] INFO:    Session initialized and associated with user credential vipin
+[18:40:51] INFO:    SSHExec initialized successfully
+[18:40:51] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:40:57] INFO:    SSH connection established
+[18:40:57] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[18:40:58] INFO:    Connection channel established succesfully
+[18:40:58] INFO:    Start to run command
+[18:40:58] INFO:    Connection channel closed
+[18:40:58] INFO:    Check if exec success or not ... 
+[18:40:58] INFO:    Execution failed while executing command: python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4
+[18:40:58] INFO:    Error message: Traceback (most recent call last):  File "/home/vipin/benchmarking/myscript.py", line 5, in <module>    filesave=sys.argv[5]IndexError: list index out of rangeTraceback (most recent call last):  File "/home/vipin/benchmarking/myscript.py", line 5, in <module>    filesave=sys.argv[5]IndexError: list index out of range
+[18:40:58] INFO:    Now wait 5 seconds to begin next task ...
+[18:41:03] INFO:    Connection channel disconnect
+[18:41:03] INFO:    SSH connection shutdown
+
+=============== [2014/04/02 18:42:47, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:42:47] INFO:    SSHExec initializing ...
+[18:42:47] INFO:    Session initialized and associated with user credential vipin
+[18:42:47] INFO:    SSHExec initialized successfully
+[18:42:47] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:42:53] INFO:    SSH connection established
+[18:42:53] INFO:    Command is python /home/vipin/benchmarking/myscript.py 1024 2048 2048 4into4 /home/vipin/benchmarking
+[18:42:54] INFO:    Connection channel established succesfully
+[18:42:54] INFO:    Start to run command
+
+=============== [2014/04/02 18:43:31, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:43:31] INFO:    SSHExec initializing ...
+[18:43:31] INFO:    Session initialized and associated with user credential vipin
+[18:43:31] INFO:    SSHExec initialized successfully
+[18:43:31] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[18:43:37] INFO:    SSH connection established
+[18:43:37] INFO:    Command is python /home/vipin/benchmarking/myscript.py 102 2048 2048 4into4 /home/vipin/benchmarking
+[18:43:37] INFO:    Connection channel established succesfully
+[18:43:37] INFO:    Start to run command
+
+=============== [2014/04/02 19:40:11, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[19:40:11] INFO:    SSHExec initializing ...
+[19:40:11] INFO:    Session initialized and associated with user credential vipin
+[19:40:11] INFO:    SSHExec initialized successfully
+[19:40:11] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[19:40:18] INFO:    SSH connection established
+[19:40:18] INFO:    Command is python /home/vipin/benchmarking/myscript.py 102 2048 2048 4into4 /home/vipin/benchmarking
+[19:40:18] INFO:    Connection channel established succesfully
+[19:40:18] INFO:    Start to run command
+
+=============== [2014/04/02 19:43:47, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[19:43:47] INFO:    SSHExec initializing ...
+[19:43:47] INFO:    Session initialized and associated with user credential vipin
+[19:43:47] INFO:    SSHExec initialized successfully
+[19:43:47] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[19:43:54] INFO:    SSH connection established
+[19:43:54] INFO:    Command is python /home/vipin/benchmarking/myscript.py 102 2048 2048 4into4 /home/vipin/benchmarking
+[19:43:54] INFO:    Connection channel established succesfully
+[19:43:54] INFO:    Start to run command
+[19:43:57] INFO:    Connection channel closed
+[19:43:57] INFO:    SSH connection shutdown
+[19:43:57] INFO:    Check if exec success or not ... 
+[19:43:57] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+[19:43:57] INFO:    Execution failed while executing command: python /home/vipin/benchmarking/myscript.py 102 2048 2048 4into4 /home/vipin/benchmarking
+[19:43:57] INFO:    Error message: 
+[19:43:57] INFO:    Now wait 5 seconds to begin next task ...
+[19:43:57] INFO:    Connection channel disconnect
+
+=============== [2014/04/02 20:19:47, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[20:19:47] INFO:    SSHExec initializing ...
+[20:19:47] INFO:    Session initialized and associated with user credential vipin
+[20:19:47] INFO:    SSHExec initialized successfully
+[20:19:47] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[20:19:53] INFO:    SSH connection established
+[20:19:53] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[20:19:53] INFO:    Connection channel established succesfully
+[20:19:53] INFO:    Start to run command
+
+=============== [2014/04/02 21:57:57, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[21:57:57] INFO:    SSHExec initializing ...
+[21:57:57] INFO:    Session initialized and associated with user credential vipin
+[21:57:57] INFO:    SSHExec initialized successfully
+[21:57:57] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[21:58:00] INFO:    Command is ps -aux | grep ''/home/vipin/benchmarking'
+[21:58:04] INFO:    SSH connection established
+
+=============== [2014/04/02 21:58:47, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[21:58:47] INFO:    SSHExec initializing ...
+[21:58:47] INFO:    Session initialized and associated with user credential vipin
+[21:58:47] INFO:    SSHExec initialized successfully
+[21:58:47] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[21:58:53] INFO:    SSH connection established
+[21:58:53] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[21:58:53] INFO:    Connection channel established succesfully
+[21:58:53] INFO:    Start to run command
+
+=============== [2014/04/02 22:00:55, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[22:00:55] INFO:    SSHExec initializing ...
+[22:00:55] INFO:    Session initialized and associated with user credential vipin
+[22:00:55] INFO:    SSHExec initialized successfully
+[22:00:55] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[22:01:02] INFO:    SSH connection established
+[22:01:02] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[22:01:02] INFO:    Connection channel established succesfully
+[22:01:02] INFO:    Start to run command
+
+=============== [2014/04/02 22:01:22, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[22:01:22] INFO:    SSHExec initializing ...
+[22:01:22] INFO:    Session initialized and associated with user credential vipin
+[22:01:22] INFO:    SSHExec initialized successfully
+[22:01:22] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[22:01:28] INFO:    SSH connection established
+[22:01:28] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[22:01:28] INFO:    Connection channel established succesfully
+[22:01:28] INFO:    Start to run command
+
+=============== [2014/04/02 22:02:22, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[22:02:22] INFO:    SSHExec initializing ...
+[22:02:22] INFO:    Session initialized and associated with user credential vipin
+[22:02:22] INFO:    SSHExec initialized successfully
+[22:02:22] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[22:02:28] INFO:    SSH connection established
+[22:02:29] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[22:02:29] INFO:    Connection channel established succesfully
+[22:02:29] INFO:    Start to run command
+
+=============== [2014/04/03 13:36:21, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:36:21] INFO:    SSHExec initializing ...
+[13:36:21] INFO:    Session initialized and associated with user credential vipin
+[13:36:21] INFO:    SSHExec initialized successfully
+[13:36:21] INFO:    SSHExec trying to connect vipin@172.27.20.100
+[13:36:27] INFO:    SSH connection established
+[13:36:27] INFO:    Command is python /home/vipin/benchmarking/myscript.py 103 204 204 4into4 /home/vipin/benchmarking
+[13:36:27] INFO:    Connection channel established succesfully
+[13:36:27] INFO:    Start to run command

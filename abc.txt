@@ -1,0 +1,14 @@
+Welcome to Ubuntu 12.04.4 LTS (GNU/Linux 3.11.0-15-generic i686)
+
+ * Documentation:  https://help.ubuntu.com/
+
+61 packages can be updated.
+38 updates are security updates.
+
+Last login: Thu Apr  3 08:36:38 2014 from 172.24.24.150
+kill -9 -aux ps 2412 2413 2418 2419 2420 2421 2422 2426 8510 
+vipin@vipin-VirtualBox:~$ kill -9 -aux ps 2412 2413 2418 2419 2420 2421 2422 242 6 8510 
+-bash: kill: -aux: arguments must be process or job IDs
+-bash: kill: ps: arguments must be process or job IDs
+-bash: kill: (8510) - No such process
+vipin@vipin-VirtualBox:~$ 
